@@ -6,7 +6,6 @@ using namespace std;
 /*******************************************
   Author  : Jacob Hanafin
   Program : Memory Manager
-  Due Date: tomorrow
   Course  : CSC 300 Data Structures - Spring 2016 - DSU
   Instr   : Krebsbach
 ********************************************
